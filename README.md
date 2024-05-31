@@ -1,0 +1,1 @@
+Ce dépôt contient plusieurs projets développés pour diverses applications. Chaque projet est destiné à résoudre des problèmes spécifiques et à fournir des solutions logicielles efficaces. Voici une description détaillée de chaque projet :
