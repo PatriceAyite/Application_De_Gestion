@@ -1,0 +1,108 @@
+E:\Pet Shop Management System\Pet Shop Management System\bin\Debug\Pet Shop Management System.exe.config
+E:\Pet Shop Management System\Pet Shop Management System\bin\Debug\Pet Shop Management System.exe
+E:\Pet Shop Management System\Pet Shop Management System\bin\Debug\Pet Shop Management System.pdb
+E:\Pet Shop Management System\Pet Shop Management System\bin\Debug\Pet Shop Management System.xml
+E:\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.Form1.resources
+E:\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.Resources.resources
+E:\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.vbproj.GenerateResource.Cache
+E:\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.exe
+E:\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.xml
+E:\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.pdb
+E:\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.frm_pets.resources
+E:\Pet Shop Management System\Pet Shop Management System\bin\Debug\MessagingToolkit.Barcode.dll
+E:\Pet Shop Management System\Pet Shop Management System\bin\Debug\MySql.Data.dll
+E:\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.vbprojResolveAssemblyReference.cache
+E:\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.frm_users.resources
+E:\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.frm_changePassword.resources
+E:\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.frm_report.resources
+E:\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.frm_cashier.resources
+E:\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.frm_login.resources
+E:\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.vbproj.ResolveComReference.cache
+E:\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.frm_splashScreen.resources
+C:\Users\DK\Downloads\Pet Shop Management System\Pet Shop Management System\bin\Debug\Pet Shop Management System.exe.config
+C:\Users\DK\Downloads\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.vbproj.ResolveComReference.cache
+C:\Users\DK\Downloads\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.exe
+C:\Users\DK\Downloads\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.xml
+C:\Users\DK\Downloads\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.pdb
+C:\Users\DK\Downloads\Pet Shop Management System\Pet Shop Management System\bin\Debug\Pet Shop Management System.exe
+C:\Users\DK\Downloads\Pet Shop Management System\Pet Shop Management System\bin\Debug\Pet Shop Management System.pdb
+C:\Users\DK\Downloads\Pet Shop Management System\Pet Shop Management System\bin\Debug\Pet Shop Management System.xml
+C:\Users\DK\Downloads\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.vbprojResolveAssemblyReference.cache
+C:\Users\DK\Downloads\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.frm_cashier.resources
+C:\Users\DK\Downloads\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.Form1.resources
+C:\Users\DK\Downloads\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.frm_changePassword.resources
+C:\Users\DK\Downloads\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.frm_login.resources
+C:\Users\DK\Downloads\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.frm_pets.resources
+C:\Users\DK\Downloads\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.frm_report.resources
+C:\Users\DK\Downloads\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.frm_users.resources
+C:\Users\DK\Downloads\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.frm_splashScreen.resources
+C:\Users\DK\Downloads\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.Resources.resources
+C:\Users\DK\Downloads\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.vbproj.GenerateResource.Cache
+E:\Telechargement\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.vbproj.AssemblyReference.cache
+E:\Telechargement\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.frm_cashier.resources
+E:\Telechargement\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.Form1.resources
+E:\Telechargement\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.frm_changePassword.resources
+E:\Telechargement\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.frm_login.resources
+E:\Telechargement\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.frm_pets.resources
+E:\Telechargement\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.frm_report.resources
+E:\Telechargement\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.frm_users.resources
+E:\Telechargement\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.frm_splashScreen.resources
+E:\Telechargement\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.Resources.resources
+E:\Telechargement\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.vbproj.GenerateResource.cache
+E:\Telechargement\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.vbproj.CoreCompileInputs.cache
+E:\Telechargement\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.exe
+E:\Telechargement\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.xml
+E:\Telechargement\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.pdb
+F:\Telechargement\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.vbproj.AssemblyReference.cache
+F:\Telechargement\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.frm_cashier.resources
+F:\Telechargement\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.Form1.resources
+F:\Telechargement\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.frm_changePassword.resources
+F:\Telechargement\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.frm_login.resources
+F:\Telechargement\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.frm_pets.resources
+F:\Telechargement\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.frm_report.resources
+F:\Telechargement\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.frm_users.resources
+F:\Telechargement\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.frm_splashScreen.resources
+F:\Telechargement\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.Resources.resources
+F:\Telechargement\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.vbproj.GenerateResource.cache
+F:\Telechargement\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.vbproj.CoreCompileInputs.cache
+F:\Telechargement\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.exe
+F:\Telechargement\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.xml
+F:\Telechargement\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.pdb
+F:\Telechargement\Pet Shop Management System\Pet Shop Management System\bin\Debug\Pet Shop Management System.exe.config
+F:\Telechargement\Pet Shop Management System\Pet Shop Management System\bin\Debug\Pet Shop Management System.exe
+F:\Telechargement\Pet Shop Management System\Pet Shop Management System\bin\Debug\Pet Shop Management System.pdb
+F:\Telechargement\Pet Shop Management System\Pet Shop Management System\bin\Debug\Pet Shop Management System.xml
+F:\Telechargement\Pet Shop Management System\Pet Shop Management System\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+F:\Telechargement\Pet Shop Management System\Pet Shop Management System\bin\Debug\fr\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll
+F:\Telechargement\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop.161D5CB2.Up2Date
+F:\Telechargement\Pet Shop Management System\Pet Shop Management System\bin\Debug\Guna.UI2.dll
+E:\Telechargement\Pet Shop Management System\Pet Shop Management System\bin\Debug\Pet Shop Management System.exe.config
+E:\Telechargement\Pet Shop Management System\Pet Shop Management System\bin\Debug\Pet Shop Management System.exe
+E:\Telechargement\Pet Shop Management System\Pet Shop Management System\bin\Debug\Pet Shop Management System.pdb
+E:\Telechargement\Pet Shop Management System\Pet Shop Management System\bin\Debug\Pet Shop Management System.xml
+E:\Telechargement\Pet Shop Management System\Pet Shop Management System\bin\Debug\Guna.UI2.dll
+E:\Telechargement\Pet Shop Management System\Pet Shop Management System\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+E:\Telechargement\Pet Shop Management System\Pet Shop Management System\bin\Debug\fr\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll
+E:\Telechargement\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop.161D5CB2.Up2Date
+D:\BTS\Logiciel\DesktopApp\Pet Shop Management System\Pet Shop Management System\bin\Debug\Pet Shop Management System.exe.config
+D:\BTS\Logiciel\DesktopApp\Pet Shop Management System\Pet Shop Management System\bin\Debug\Pet Shop Management System.exe
+D:\BTS\Logiciel\DesktopApp\Pet Shop Management System\Pet Shop Management System\bin\Debug\Pet Shop Management System.pdb
+D:\BTS\Logiciel\DesktopApp\Pet Shop Management System\Pet Shop Management System\bin\Debug\Pet Shop Management System.xml
+D:\BTS\Logiciel\DesktopApp\Pet Shop Management System\Pet Shop Management System\bin\Debug\Guna.UI2.dll
+D:\BTS\Logiciel\DesktopApp\Pet Shop Management System\Pet Shop Management System\bin\Debug\fr\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll
+D:\BTS\Logiciel\DesktopApp\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.vbproj.AssemblyReference.cache
+D:\BTS\Logiciel\DesktopApp\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.frm_cashier.resources
+D:\BTS\Logiciel\DesktopApp\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.Form1.resources
+D:\BTS\Logiciel\DesktopApp\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.frm_changePassword.resources
+D:\BTS\Logiciel\DesktopApp\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.frm_login.resources
+D:\BTS\Logiciel\DesktopApp\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.frm_pets.resources
+D:\BTS\Logiciel\DesktopApp\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.frm_report.resources
+D:\BTS\Logiciel\DesktopApp\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.frm_users.resources
+D:\BTS\Logiciel\DesktopApp\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.frm_splashScreen.resources
+D:\BTS\Logiciel\DesktopApp\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.Resources.resources
+D:\BTS\Logiciel\DesktopApp\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.vbproj.GenerateResource.cache
+D:\BTS\Logiciel\DesktopApp\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.vbproj.CoreCompileInputs.cache
+D:\BTS\Logiciel\DesktopApp\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop.161D5CB2.Up2Date
+D:\BTS\Logiciel\DesktopApp\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.exe
+D:\BTS\Logiciel\DesktopApp\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.xml
+D:\BTS\Logiciel\DesktopApp\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.pdb

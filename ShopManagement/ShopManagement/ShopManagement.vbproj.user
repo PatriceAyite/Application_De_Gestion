@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="ADMIN\frm_AdminMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ADMIN\frm_ManageBook.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ADMIN\frm_ManageUser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="USER\bienvenu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="USER\frm_Cancel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="USER\frm_option.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="USER\frm_report.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="USER\frm_UserMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="USER\login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

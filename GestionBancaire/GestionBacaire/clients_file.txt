@@ -1,0 +1,2 @@
+nom : AYITE prenom: Patrice code_agence: 21 cin_client: 11111111111
+nom : TETE prenom: Patrice code_agence: 21 cin_client: 22222222222

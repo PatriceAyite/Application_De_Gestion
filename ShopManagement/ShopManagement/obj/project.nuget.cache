@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "PEAapjxpKoU=",
+  "success": true,
+  "projectFilePath": "D:\\BTS\\Logiciel\\DesktopApp\\ShopManagement\\ShopManagement\\ShopManagement.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\patri\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.6\\guna.ui2.winforms.2.0.4.6.nupkg.sha512",
+    "C:\\Users\\patri\\.nuget\\packages\\microsoft.build.framework\\17.9.5\\microsoft.build.framework.17.9.5.nupkg.sha512",
+    "C:\\Users\\patri\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\patri\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

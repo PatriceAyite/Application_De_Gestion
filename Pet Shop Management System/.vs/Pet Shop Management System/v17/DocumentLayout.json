@@ -1,0 +1,357 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BTS\\Logiciel\\DesktopApp\\Pet Shop Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94021E8C-C651-4215-BE31-1B7408167834}|Pet Shop Management System\\Pet Shop Management System.vbproj|d:\\bts\\logiciel\\desktopapp\\pet shop management system\\pet shop management system\\admin\\frm_changepassword.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{94021E8C-C651-4215-BE31-1B7408167834}|Pet Shop Management System\\Pet Shop Management System.vbproj|solutionrelative:pet shop management system\\admin\\frm_changepassword.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94021E8C-C651-4215-BE31-1B7408167834}|Pet Shop Management System\\Pet Shop Management System.vbproj|D:\\BTS\\Logiciel\\DesktopApp\\Pet Shop Management System\\Pet Shop Management System\\Admin\\frm_report.Designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{94021E8C-C651-4215-BE31-1B7408167834}|Pet Shop Management System\\Pet Shop Management System.vbproj|solutionrelative:Pet Shop Management System\\Admin\\frm_report.Designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94021E8C-C651-4215-BE31-1B7408167834}|Pet Shop Management System\\Pet Shop Management System.vbproj|D:\\BTS\\Logiciel\\DesktopApp\\Pet Shop Management System\\Pet Shop Management System\\frm_splashScreen.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{94021E8C-C651-4215-BE31-1B7408167834}|Pet Shop Management System\\Pet Shop Management System.vbproj|solutionrelative:Pet Shop Management System\\frm_splashScreen.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94021E8C-C651-4215-BE31-1B7408167834}|Pet Shop Management System\\Pet Shop Management System.vbproj|D:\\BTS\\Logiciel\\DesktopApp\\Pet Shop Management System\\Pet Shop Management System\\frm_login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{94021E8C-C651-4215-BE31-1B7408167834}|Pet Shop Management System\\Pet Shop Management System.vbproj|solutionrelative:Pet Shop Management System\\frm_login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94021E8C-C651-4215-BE31-1B7408167834}|Pet Shop Management System\\Pet Shop Management System.vbproj|D:\\BTS\\Logiciel\\DesktopApp\\Pet Shop Management System\\Pet Shop Management System\\frm_login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{94021E8C-C651-4215-BE31-1B7408167834}|Pet Shop Management System\\Pet Shop Management System.vbproj|solutionrelative:Pet Shop Management System\\frm_login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94021E8C-C651-4215-BE31-1B7408167834}|Pet Shop Management System\\Pet Shop Management System.vbproj|D:\\BTS\\Logiciel\\DesktopApp\\Pet Shop Management System\\Pet Shop Management System\\Cashier\\frm_cashier.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{94021E8C-C651-4215-BE31-1B7408167834}|Pet Shop Management System\\Pet Shop Management System.vbproj|solutionrelative:Pet Shop Management System\\Cashier\\frm_cashier.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94021E8C-C651-4215-BE31-1B7408167834}|Pet Shop Management System\\Pet Shop Management System.vbproj|D:\\BTS\\Logiciel\\DesktopApp\\Pet Shop Management System\\Pet Shop Management System\\Admin\\frm_pets.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{94021E8C-C651-4215-BE31-1B7408167834}|Pet Shop Management System\\Pet Shop Management System.vbproj|solutionrelative:Pet Shop Management System\\Admin\\frm_pets.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94021E8C-C651-4215-BE31-1B7408167834}|Pet Shop Management System\\Pet Shop Management System.vbproj|D:\\BTS\\Logiciel\\DesktopApp\\Pet Shop Management System\\Pet Shop Management System\\Cashier\\frm_cashier.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{94021E8C-C651-4215-BE31-1B7408167834}|Pet Shop Management System\\Pet Shop Management System.vbproj|solutionrelative:Pet Shop Management System\\Cashier\\frm_cashier.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94021E8C-C651-4215-BE31-1B7408167834}|Pet Shop Management System\\Pet Shop Management System.vbproj|D:\\BTS\\Logiciel\\DesktopApp\\Pet Shop Management System\\Pet Shop Management System\\Admin\\Form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{94021E8C-C651-4215-BE31-1B7408167834}|Pet Shop Management System\\Pet Shop Management System.vbproj|solutionrelative:Pet Shop Management System\\Admin\\Form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94021E8C-C651-4215-BE31-1B7408167834}|Pet Shop Management System\\Pet Shop Management System.vbproj|D:\\BTS\\Logiciel\\DesktopApp\\Pet Shop Management System\\Pet Shop Management System\\Admin\\frm_pets.Designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{94021E8C-C651-4215-BE31-1B7408167834}|Pet Shop Management System\\Pet Shop Management System.vbproj|solutionrelative:Pet Shop Management System\\Admin\\frm_pets.Designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94021E8C-C651-4215-BE31-1B7408167834}|Pet Shop Management System\\Pet Shop Management System.vbproj|D:\\BTS\\Logiciel\\DesktopApp\\Pet Shop Management System\\Pet Shop Management System\\Admin\\frm_changePassword.Designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{94021E8C-C651-4215-BE31-1B7408167834}|Pet Shop Management System\\Pet Shop Management System.vbproj|solutionrelative:Pet Shop Management System\\Admin\\frm_changePassword.Designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94021E8C-C651-4215-BE31-1B7408167834}|Pet Shop Management System\\Pet Shop Management System.vbproj|D:\\BTS\\Logiciel\\DesktopApp\\Pet Shop Management System\\Pet Shop Management System\\Admin\\Form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{94021E8C-C651-4215-BE31-1B7408167834}|Pet Shop Management System\\Pet Shop Management System.vbproj|solutionrelative:Pet Shop Management System\\Admin\\Form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94021E8C-C651-4215-BE31-1B7408167834}|Pet Shop Management System\\Pet Shop Management System.vbproj|D:\\BTS\\Logiciel\\DesktopApp\\Pet Shop Management System\\Pet Shop Management System\\frm_splashScreen.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{94021E8C-C651-4215-BE31-1B7408167834}|Pet Shop Management System\\Pet Shop Management System.vbproj|solutionrelative:Pet Shop Management System\\frm_splashScreen.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94021E8C-C651-4215-BE31-1B7408167834}|Pet Shop Management System\\Pet Shop Management System.vbproj|D:\\BTS\\Logiciel\\DesktopApp\\Pet Shop Management System\\Pet Shop Management System\\Admin\\frm_report.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{94021E8C-C651-4215-BE31-1B7408167834}|Pet Shop Management System\\Pet Shop Management System.vbproj|solutionrelative:Pet Shop Management System\\Admin\\frm_report.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94021E8C-C651-4215-BE31-1B7408167834}|Pet Shop Management System\\Pet Shop Management System.vbproj|D:\\BTS\\Logiciel\\DesktopApp\\Pet Shop Management System\\Pet Shop Management System\\Admin\\frm_users.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{94021E8C-C651-4215-BE31-1B7408167834}|Pet Shop Management System\\Pet Shop Management System.vbproj|solutionrelative:Pet Shop Management System\\Admin\\frm_users.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94021E8C-C651-4215-BE31-1B7408167834}|Pet Shop Management System\\Pet Shop Management System.vbproj|D:\\BTS\\Logiciel\\DesktopApp\\Pet Shop Management System\\Pet Shop Management System\\dbconnection.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{94021E8C-C651-4215-BE31-1B7408167834}|Pet Shop Management System\\Pet Shop Management System.vbproj|solutionrelative:Pet Shop Management System\\dbconnection.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94021E8C-C651-4215-BE31-1B7408167834}|Pet Shop Management System\\Pet Shop Management System.vbproj|D:\\BTS\\Logiciel\\DesktopApp\\Pet Shop Management System\\Pet Shop Management System\\Admin\\frm_users.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{94021E8C-C651-4215-BE31-1B7408167834}|Pet Shop Management System\\Pet Shop Management System.vbproj|solutionrelative:Pet Shop Management System\\Admin\\frm_users.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94021E8C-C651-4215-BE31-1B7408167834}|Pet Shop Management System\\Pet Shop Management System.vbproj|D:\\BTS\\Logiciel\\DesktopApp\\Pet Shop Management System\\Pet Shop Management System\\Admin\\frm_pets.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{94021E8C-C651-4215-BE31-1B7408167834}|Pet Shop Management System\\Pet Shop Management System.vbproj|solutionrelative:Pet Shop Management System\\Admin\\frm_pets.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94021E8C-C651-4215-BE31-1B7408167834}|Pet Shop Management System\\Pet Shop Management System.vbproj|D:\\BTS\\Logiciel\\DesktopApp\\Pet Shop Management System\\Pet Shop Management System\\Admin\\frm_changePassword.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{94021E8C-C651-4215-BE31-1B7408167834}|Pet Shop Management System\\Pet Shop Management System.vbproj|solutionrelative:Pet Shop Management System\\Admin\\frm_changePassword.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94021E8C-C651-4215-BE31-1B7408167834}|Pet Shop Management System\\Pet Shop Management System.vbproj|D:\\BTS\\Logiciel\\DesktopApp\\Pet Shop Management System\\pet shop management system\\admin\\frm_changepassword.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{94021E8C-C651-4215-BE31-1B7408167834}|Pet Shop Management System\\Pet Shop Management System.vbproj|solutionrelative:pet shop management system\\admin\\frm_changepassword.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94021E8C-C651-4215-BE31-1B7408167834}|Pet Shop Management System\\Pet Shop Management System.vbproj|D:\\BTS\\Logiciel\\DesktopApp\\Pet Shop Management System\\pet shop management system\\admin\\frm_pets.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{94021E8C-C651-4215-BE31-1B7408167834}|Pet Shop Management System\\Pet Shop Management System.vbproj|solutionrelative:pet shop management system\\admin\\frm_pets.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frm_report.Designer.vb",
+              "DocumentMoniker": "D:\\BTS\\Logiciel\\DesktopApp\\Pet Shop Management System\\Pet Shop Management System\\Admin\\frm_report.Designer.vb",
+              "RelativeDocumentMoniker": "Pet Shop Management System\\Admin\\frm_report.Designer.vb",
+              "ToolTip": "D:\\BTS\\Logiciel\\DesktopApp\\Pet Shop Management System\\Pet Shop Management System\\Admin\\frm_report.Designer.vb",
+              "RelativeToolTip": "Pet Shop Management System\\Admin\\frm_report.Designer.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-08T13:56:48.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frm_splashScreen.vb [Design]",
+              "DocumentMoniker": "D:\\BTS\\Logiciel\\DesktopApp\\Pet Shop Management System\\Pet Shop Management System\\frm_splashScreen.vb",
+              "RelativeDocumentMoniker": "Pet Shop Management System\\frm_splashScreen.vb",
+              "ToolTip": "D:\\BTS\\Logiciel\\DesktopApp\\Pet Shop Management System\\Pet Shop Management System\\frm_splashScreen.vb [Design]",
+              "RelativeToolTip": "Pet Shop Management System\\frm_splashScreen.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-04T08:54:51.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frm_login.vb",
+              "DocumentMoniker": "D:\\BTS\\Logiciel\\DesktopApp\\Pet Shop Management System\\Pet Shop Management System\\frm_login.vb",
+              "RelativeDocumentMoniker": "Pet Shop Management System\\frm_login.vb",
+              "ToolTip": "D:\\BTS\\Logiciel\\DesktopApp\\Pet Shop Management System\\Pet Shop Management System\\frm_login.vb",
+              "RelativeToolTip": "Pet Shop Management System\\frm_login.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-04T08:10:14.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frm_login.vb",
+              "DocumentMoniker": "D:\\BTS\\Logiciel\\DesktopApp\\Pet Shop Management System\\Pet Shop Management System\\frm_login.vb",
+              "RelativeDocumentMoniker": "Pet Shop Management System\\frm_login.vb",
+              "ToolTip": "D:\\BTS\\Logiciel\\DesktopApp\\Pet Shop Management System\\Pet Shop Management System\\frm_login.vb",
+              "RelativeToolTip": "Pet Shop Management System\\frm_login.vb",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-04T08:09:49.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frm_cashier.vb",
+              "DocumentMoniker": "D:\\BTS\\Logiciel\\DesktopApp\\Pet Shop Management System\\Pet Shop Management System\\Cashier\\frm_cashier.vb",
+              "RelativeDocumentMoniker": "Pet Shop Management System\\Cashier\\frm_cashier.vb",
+              "ToolTip": "D:\\BTS\\Logiciel\\DesktopApp\\Pet Shop Management System\\Pet Shop Management System\\Cashier\\frm_cashier.vb",
+              "RelativeToolTip": "Pet Shop Management System\\Cashier\\frm_cashier.vb",
+              "ViewState": "AQIAALkAAAAAMDMzMzMDwNMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-02T21:19:39.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frm_pets.vb",
+              "DocumentMoniker": "D:\\BTS\\Logiciel\\DesktopApp\\Pet Shop Management System\\Pet Shop Management System\\Admin\\frm_pets.vb",
+              "RelativeDocumentMoniker": "Pet Shop Management System\\Admin\\frm_pets.vb",
+              "ToolTip": "D:\\BTS\\Logiciel\\DesktopApp\\Pet Shop Management System\\Pet Shop Management System\\Admin\\frm_pets.vb",
+              "RelativeToolTip": "Pet Shop Management System\\Admin\\frm_pets.vb",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-29T11:01:20.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frm_cashier.vb",
+              "DocumentMoniker": "D:\\BTS\\Logiciel\\DesktopApp\\Pet Shop Management System\\Pet Shop Management System\\Cashier\\frm_cashier.vb",
+              "RelativeDocumentMoniker": "Pet Shop Management System\\Cashier\\frm_cashier.vb",
+              "ToolTip": "D:\\BTS\\Logiciel\\DesktopApp\\Pet Shop Management System\\Pet Shop Management System\\Cashier\\frm_cashier.vb",
+              "RelativeToolTip": "Pet Shop Management System\\Cashier\\frm_cashier.vb",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-21T07:51:34.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "D:\\BTS\\Logiciel\\DesktopApp\\Pet Shop Management System\\Pet Shop Management System\\Admin\\Form1.vb",
+              "RelativeDocumentMoniker": "Pet Shop Management System\\Admin\\Form1.vb",
+              "ToolTip": "D:\\BTS\\Logiciel\\DesktopApp\\Pet Shop Management System\\Pet Shop Management System\\Admin\\Form1.vb",
+              "RelativeToolTip": "Pet Shop Management System\\Admin\\Form1.vb",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-21T07:32:09.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frm_changePassword.vb [Design]",
+              "DocumentMoniker": "D:\\BTS\\Logiciel\\DesktopApp\\Pet Shop Management System\\Pet Shop Management System\\Admin\\frm_changePassword.vb",
+              "RelativeDocumentMoniker": "Pet Shop Management System\\Admin\\frm_changePassword.vb",
+              "ToolTip": "D:\\BTS\\Logiciel\\DesktopApp\\Pet Shop Management System\\Pet Shop Management System\\Admin\\frm_changePassword.vb [Design]",
+              "RelativeToolTip": "Pet Shop Management System\\Admin\\frm_changePassword.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-28T10:06:10.512Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frm_pets.Designer.vb",
+              "DocumentMoniker": "D:\\BTS\\Logiciel\\DesktopApp\\Pet Shop Management System\\Pet Shop Management System\\Admin\\frm_pets.Designer.vb",
+              "RelativeDocumentMoniker": "Pet Shop Management System\\Admin\\frm_pets.Designer.vb",
+              "ToolTip": "D:\\BTS\\Logiciel\\DesktopApp\\Pet Shop Management System\\Pet Shop Management System\\Admin\\frm_pets.Designer.vb",
+              "RelativeToolTip": "Pet Shop Management System\\Admin\\frm_pets.Designer.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-08T13:56:56.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frm_changePassword.Designer.vb",
+              "DocumentMoniker": "D:\\BTS\\Logiciel\\DesktopApp\\Pet Shop Management System\\Pet Shop Management System\\Admin\\frm_changePassword.Designer.vb",
+              "RelativeDocumentMoniker": "Pet Shop Management System\\Admin\\frm_changePassword.Designer.vb",
+              "ToolTip": "D:\\BTS\\Logiciel\\DesktopApp\\Pet Shop Management System\\Pet Shop Management System\\Admin\\frm_changePassword.Designer.vb",
+              "RelativeToolTip": "Pet Shop Management System\\Admin\\frm_changePassword.Designer.vb",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-08T13:56:56.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "D:\\BTS\\Logiciel\\DesktopApp\\Pet Shop Management System\\Pet Shop Management System\\Admin\\Form1.vb",
+              "RelativeDocumentMoniker": "Pet Shop Management System\\Admin\\Form1.vb",
+              "ToolTip": "D:\\BTS\\Logiciel\\DesktopApp\\Pet Shop Management System\\Pet Shop Management System\\Admin\\Form1.vb",
+              "RelativeToolTip": "Pet Shop Management System\\Admin\\Form1.vb",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-09T11:39:24.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frm_splashScreen.vb",
+              "DocumentMoniker": "D:\\BTS\\Logiciel\\DesktopApp\\Pet Shop Management System\\Pet Shop Management System\\frm_splashScreen.vb",
+              "RelativeDocumentMoniker": "Pet Shop Management System\\frm_splashScreen.vb",
+              "ToolTip": "D:\\BTS\\Logiciel\\DesktopApp\\Pet Shop Management System\\Pet Shop Management System\\frm_splashScreen.vb",
+              "RelativeToolTip": "Pet Shop Management System\\frm_splashScreen.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-17T21:01:40.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frm_report.vb",
+              "DocumentMoniker": "D:\\BTS\\Logiciel\\DesktopApp\\Pet Shop Management System\\Pet Shop Management System\\Admin\\frm_report.vb",
+              "RelativeDocumentMoniker": "Pet Shop Management System\\Admin\\frm_report.vb",
+              "ToolTip": "D:\\BTS\\Logiciel\\DesktopApp\\Pet Shop Management System\\Pet Shop Management System\\Admin\\frm_report.vb",
+              "RelativeToolTip": "Pet Shop Management System\\Admin\\frm_report.vb",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-28T10:06:06.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frm_users.vb",
+              "DocumentMoniker": "D:\\BTS\\Logiciel\\DesktopApp\\Pet Shop Management System\\Pet Shop Management System\\Admin\\frm_users.vb",
+              "RelativeDocumentMoniker": "Pet Shop Management System\\Admin\\frm_users.vb",
+              "ToolTip": "D:\\BTS\\Logiciel\\DesktopApp\\Pet Shop Management System\\Pet Shop Management System\\Admin\\frm_users.vb",
+              "RelativeToolTip": "Pet Shop Management System\\Admin\\frm_users.vb",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-28T10:02:15.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "dbconnection.vb",
+              "DocumentMoniker": "D:\\BTS\\Logiciel\\DesktopApp\\Pet Shop Management System\\Pet Shop Management System\\dbconnection.vb",
+              "RelativeDocumentMoniker": "Pet Shop Management System\\dbconnection.vb",
+              "ToolTip": "D:\\BTS\\Logiciel\\DesktopApp\\Pet Shop Management System\\Pet Shop Management System\\dbconnection.vb",
+              "RelativeToolTip": "Pet Shop Management System\\dbconnection.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-29T11:08:07.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frm_users.vb",
+              "DocumentMoniker": "D:\\BTS\\Logiciel\\DesktopApp\\Pet Shop Management System\\Pet Shop Management System\\Admin\\frm_users.vb",
+              "RelativeDocumentMoniker": "Pet Shop Management System\\Admin\\frm_users.vb",
+              "ToolTip": "D:\\BTS\\Logiciel\\DesktopApp\\Pet Shop Management System\\Pet Shop Management System\\Admin\\frm_users.vb",
+              "RelativeToolTip": "Pet Shop Management System\\Admin\\frm_users.vb",
+              "ViewState": "AQIAAAUAAAAA+v//////vxcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-28T10:02:22.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frm_pets.vb",
+              "DocumentMoniker": "D:\\BTS\\Logiciel\\DesktopApp\\Pet Shop Management System\\Pet Shop Management System\\Admin\\frm_pets.vb",
+              "RelativeDocumentMoniker": "Pet Shop Management System\\Admin\\frm_pets.vb",
+              "ToolTip": "D:\\BTS\\Logiciel\\DesktopApp\\Pet Shop Management System\\Pet Shop Management System\\Admin\\frm_pets.vb",
+              "RelativeToolTip": "Pet Shop Management System\\Admin\\frm_pets.vb",
+              "ViewState": "AQIAAGkAAADA+/////8kwGoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-29T11:01:39.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frm_changePassword.vb",
+              "DocumentMoniker": "D:\\BTS\\Logiciel\\DesktopApp\\Pet Shop Management System\\Pet Shop Management System\\Admin\\frm_changePassword.vb",
+              "RelativeDocumentMoniker": "Pet Shop Management System\\Admin\\frm_changePassword.vb",
+              "ToolTip": "D:\\BTS\\Logiciel\\DesktopApp\\Pet Shop Management System\\Pet Shop Management System\\Admin\\frm_changePassword.vb",
+              "RelativeToolTip": "Pet Shop Management System\\Admin\\frm_changePassword.vb",
+              "ViewState": "AQIAABcAAACAzMzMzMwiwCUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-29T10:51:09.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frm_changePassword.resx",
+              "DocumentMoniker": "D:\\BTS\\Logiciel\\DesktopApp\\Pet Shop Management System\\Pet Shop Management System\\Admin\\frm_changePassword.resx",
+              "RelativeDocumentMoniker": "Pet Shop Management System\\Admin\\frm_changePassword.resx",
+              "ToolTip": "D:\\BTS\\Logiciel\\DesktopApp\\Pet Shop Management System\\Pet Shop Management System\\Admin\\frm_changePassword.resx",
+              "RelativeToolTip": "Pet Shop Management System\\Admin\\frm_changePassword.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-04-08T13:56:56.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "frm_pets.resx",
+              "DocumentMoniker": "D:\\BTS\\Logiciel\\DesktopApp\\Pet Shop Management System\\Pet Shop Management System\\Admin\\frm_pets.resx",
+              "RelativeDocumentMoniker": "Pet Shop Management System\\Admin\\frm_pets.resx",
+              "ToolTip": "D:\\BTS\\Logiciel\\DesktopApp\\Pet Shop Management System\\Pet Shop Management System\\Admin\\frm_pets.resx",
+              "RelativeToolTip": "Pet Shop Management System\\Admin\\frm_pets.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-04-08T13:56:55.999Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
